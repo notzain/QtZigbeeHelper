@@ -1,0 +1,6 @@
+BasedOnStyle: WebKit
+AllowAllParametersOfDeclarationOnNextLine: 'true'
+BinPackParameters: 'false'
+SpacesInParentheses: 'true'
+AllowShortFunctionsOnASingleLine: 'Inline'
+ColumnLimit: 90
